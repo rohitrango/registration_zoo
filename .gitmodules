@@ -1,0 +1,6 @@
+[submodule "FireANTs"]
+	path = FireANTs
+	url = git@github.com:rohitrango/FireANTs.git
+[submodule "Magic-or-Mirage"]
+	path = Magic-or-Mirage
+	url = git@github.com:rohitrango/Magic-or-Mirage.git
